@@ -50,7 +50,7 @@ def Dental_daigonosis(encode_img,query):
             - If the user asks about ANY non-dental issue (headaches, fever, skin problems, general health), respond ONLY with: "I specialize exclusively in dental health. Please consult a physician for non-dental medical concerns."
             - Never provide any information, suggestions, or comments about non-dental matters
 
-            2. For dental issues, provide responses in this exact numbered format:
+            2. For dental issues, provide responses in this exact numbered format and it shoudl be in detail:
             1. Identified Dental Problem: [State the specific dental issue]
             2. Recommended Treatment: [Professional dental procedures required]
             3. Preventive Care: [Specific oral hygiene instructions]
