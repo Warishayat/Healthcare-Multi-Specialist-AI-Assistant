@@ -14,3 +14,4 @@ tinyhtml5
 xhtml2pdf
 zopfli
 groq
+pymupdf
