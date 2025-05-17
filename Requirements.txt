@@ -1,20 +1,18 @@
-Brotli
-faiss-cpu
-fonttools
-fpdf
-grpcio-status
-langchain
-langchain-cli
-langchain-community
-langchain-google-genai
-langchain-groq
-markdown2
-pydyf
-PyMuPDF
-pyphen
-sse-starlette
-streamlit
-tinyhtml5
-xhtml2pdf
-zopfli
-groq
+Brotli                 1.1.0
+faiss-cpu              1.11.0
+fonttools              4.58.0
+fpdf                   1.7.2
+grpcio-status          1.71.0
+langchain-cli          0.0.36
+langchain-community    0.3.24
+langchain-google-genai 2.1.4
+langchain-groq         0.3.2
+markdown2              2.5.3
+pydyf                  0.11.0
+PyMuPDF                1.25.5
+pyphen                 0.17.2
+sse-starlette          1.8.2
+streamlit              1.45.1
+tinyhtml5              2.0.0
+xhtml2pdf              0.2.17
+zopfli                 0.2.3.post1
