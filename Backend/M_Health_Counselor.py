@@ -46,7 +46,7 @@ def Mental_Health_counselor(mood_desc: str, sleep_quality: int, stress_level: in
     """
 
     health_counselor = ChatGroq(
-        model="gemma2-9b-it",
+        model="openai/gpt-oss-20b",
         temperature=0.6,
         streaming=True,
         verbose=True,
