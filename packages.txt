@@ -1,0 +1,9 @@
+libcairo2-dev
+pkg-config
+python3-dev
+libpango1.0-dev
+libgdk-pixbuf2.0-dev
+libffi-dev
+libjpeg-dev
+zlib1g-dev
+libfreetype6-dev
